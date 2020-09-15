@@ -8,7 +8,7 @@ import static io.restassured.RestAssured.*;
 public class putUser {
 	
 	@Test
-	public void update1() {
+	public void update2() {
 		
 		JSONObject request=new JSONObject();
 		
