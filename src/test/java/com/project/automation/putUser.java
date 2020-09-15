@@ -20,10 +20,6 @@ public class putUser {
 		then().
 		statusCode(200).
 		log().all().assertThat();
-		
-		
-		
-		
 	}
 
 }
