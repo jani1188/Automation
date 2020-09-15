@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-14T21:27:53 EDT" name="Default suite" finished-at="2020-09-14T21:27:55 EDT" duration-ms="2120">
+  <suite started-at="2020-09-14T21:36:15 EDT" name="Default suite" finished-at="2020-09-14T21:36:18 EDT" duration-ms="2852">
     <groups>
     </groups>
-    <test started-at="2020-09-14T21:27:53 EDT" name="Default test" finished-at="2020-09-14T21:27:55 EDT" duration-ms="2120">
+    <test started-at="2020-09-14T21:36:15 EDT" name="Default test" finished-at="2020-09-14T21:36:18 EDT" duration-ms="2852">
       <class name="com.project.automation.putUser">
-        <test-method signature="update1()[pri:0, instance:com.project.automation.putUser@16aa0a0a]" started-at="2020-09-14T21:27:53 EDT" name="update1" finished-at="2020-09-14T21:27:55 EDT" duration-ms="2073" status="PASS">
+        <test-method signature="update1()[pri:0, instance:com.project.automation.putUser@16aa0a0a]" started-at="2020-09-14T21:36:15 EDT" name="update1" finished-at="2020-09-14T21:36:18 EDT" duration-ms="2812" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- update1 -->
